@@ -3,9 +3,7 @@ def my_hash
   your_hash = {
     "name" => "Alyssa Kim"
     "city" => "Dublin"
-  }
-end 
-  
+}
 end
 
 
